@@ -1,0 +1,29 @@
+{
+  "name": "celigo-nodejs-training1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajay1297/Celigo-NodeJS-training1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajay1297/Celigo-NodeJS-training1/issues"
+  },
+  "homepage": "https://github.com/ajay1297/Celigo-NodeJS-training1#readme",
+  "dependencies": {
+    "async": "^3.2.4",
+    "compressing": "^1.5.1",
+    "csv-writer": "^1.6.0",
+    "handlebars": "^4.7.7",
+    "node-url-shortener": "^2.0.3",
+    "request": "^2.88.2",
+    "xml-js": "^1.6.11",
+    "xml-parser": "^1.2.1"
+  }
+}
